@@ -2,7 +2,7 @@
 A car search engine!..
 Website developed just to integrate with different DevOps tools where here are some of the images where the project files are integrated with Djenkins(Continues Integration tool). Html files are tested and reports are generated using djenkins(Where files are in htmlbranch).
 
-![Screenshot (245)](https://user-images.githubusercontent.com/94606073/223621581-e28c3c46-124a-4a4d-a124-b3564717bc0b.png)
-![Screenshot (244)](https://user-images.githubusercontent.com/94606073/223621770-3c12c075-77ab-40d4-81a3-869ee42ca337.png)
-![Screenshot (260)](https://user-images.githubusercontent.com/94606073/223622042-b8fe15a4-97d0-40f3-a1e7-7f86f526bb9c.png)
+![Screenshot (245)](https://user-images.githubusercontent.com/94606073/223622437-a25fb4f6-96bd-4a47-9985-85e2f349bc8b.png)
+![Screenshot (244)](https://user-images.githubusercontent.com/94606073/223622467-9377cb64-596c-4dd1-9916-905096d59347.png)
+![Screenshot (260)](https://user-images.githubusercontent.com/94606073/223622492-437adacc-8b35-4721-a301-92e4f7653bb6.png)
 
