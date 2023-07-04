@@ -1,6 +1,6 @@
 # wagen_auto
 A car search engine!..
-Website developed just to integrate with different DevOps tools where here are some of the images where the project files are integrated with Djenkins(Continues Integration tool). Html files are tested and reports are generated using djenkins(Where files are in htmlbranch).
+Website developed just to integrate with different DevOps tools where here are some of the images where the project files are integrated with Jenkins(Continues Integration tool). Html files are tested and reports are generated using djenkins(Where files are in htmlbranch).
 
 ![Screenshot (245)](https://user-images.githubusercontent.com/94606073/223622437-a25fb4f6-96bd-4a47-9985-85e2f349bc8b.png)
 ![Screenshot (244)](https://user-images.githubusercontent.com/94606073/223622467-9377cb64-596c-4dd1-9916-905096d59347.png)
